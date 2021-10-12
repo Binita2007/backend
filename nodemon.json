@@ -1,0 +1,10 @@
+
+{
+    "env": { 
+        "DB_USER": "Binita",
+        "DB_PASSWORD": "11012008",
+        "DB_NAME": "mern",
+        "LOCATION_API_KEY": "pk.c467e67f1639a1687a4d29bdd83f25bf",
+        "JWT_KEY": "supersecret_dont_share'"
+    }
+}
